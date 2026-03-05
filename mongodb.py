@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 
-uri = "mongodb+srv://veereshkumar7601_db_user:veera123@cluster0.f7g9vxl.mongodb.net/"
+uri = "YOUR_MONGODB_CONNECTION_STRING"
 
 client = MongoClient(uri)
 
